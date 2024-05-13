@@ -1,0 +1,4 @@
+5thPeriod:805:940
+6thPeriod:950:1120
+7thPeriod:1130:140
+8thPeriod:150:320

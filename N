@@ -1,6 +1,6 @@
 ALunch:1120:1200
-BLunch:110:140
+BLunch:1310:1340
 1stPeriod:805:940
 2ndPeriod:950:1120
-3rdPeriod:1130:140
-4thPeriod:150:320
+3rdPeriod:1130:1400
+4thPeriod:1350:1520
